@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+
+int minutes, seconde;
+
+printf("enter the numbre of minutes is : ");
+scanf("%d",& minutes);
+
+minutes * 60;
+printf("the number of minutes into  %d seconds ",minutes * 60 );
+
+ return 0;
+}
