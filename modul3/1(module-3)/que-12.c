@@ -1,0 +1,1 @@
+//accept number of student from user. i need to give  5 apples to each students. how  many people are required.
